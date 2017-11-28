@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  MedaList
+
+  Created by 전민섭 on 2017/07/08.
+  Copyright © 2017年 JeonMinseop. All rights reserved.
+*/
+"New item" = "New item";
+"Enter new item name." = "Enter new item name.";
+"Result" = "Result";
+"Do you see the results?" =  "Do you see the results?";
+"Shortage of items" = "Shortage of items";
+"Two or more items are required." = "Two or more items are required.";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"New name" = "New name";
+"Enter new name." = "Enter new name.";
+"Please allow access to the photo　library." = "Please allow access to the photo　library.";
+"Enter your favorite sentences." = "Enter your favorite sentences.";
+"Enter details." = "Enter details.";
+"It's time to set up!" = "It's time to set up!";
+"Please review." = "Please review.";
+"Thank you for using MedaList." = "Thank you for using MedaList :-)";
+"Cancel" = "Cancel";
+"Review" = "Review";

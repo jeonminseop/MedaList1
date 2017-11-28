@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  MedaList
+
+  Created by 전민섭 on 2017/07/10.
+  Copyright © 2017年 JeonMinseop. All rights reserved.
+*/
+"NSPhotoLibraryUsageDescription" = "사진을 사용할수 있도록 허가해주세요.";
